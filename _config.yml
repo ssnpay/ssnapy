@@ -1,0 +1,8 @@
+# 配置示例
+title: 地址发布页
+email: 3131282664@qq.com
+description: >- # 简述
+  你的个人描述。
+baseurl: "https://github.com/ssnpay/ssnapy" # 如果你的仓库名称不是你的用户名，请填写对应的子路径
+ 
+# 其他配置...
